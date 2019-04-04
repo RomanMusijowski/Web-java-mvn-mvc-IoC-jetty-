@@ -1,0 +1,7 @@
+application\controllers\UserController.class
+application\repository\UserRepository.class
+application\model\User.class
+application\service\UserServiceImpl.class
+application\dao\impl\JdbcTemplateUserDAO.class
+application\dao\UserDAO.class
+application\service\UserService.class
